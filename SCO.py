@@ -398,7 +398,7 @@ class UI_TabWidget(object):
         self.LA_PL_Commander = QtWidgets.QLabel(self.WD_WinratesHeading)
         self.LA_PL_Commander.setGeometry(QtCore.QRect(425, 0, 81, 31))
         self.LA_PL_Commander.setAlignment(QtCore.Qt.AlignCenter)
-        self.LA_PL_Commander.setText("#1 COM")
+        self.LA_PL_Commander.setText("#1 Com")
         self.LA_PL_Commander.setToolTip("The most played commander")
 
         self.LA_PL_Frequency = QtWidgets.QLabel(self.WD_WinratesHeading)
